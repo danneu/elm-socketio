@@ -5,8 +5,8 @@
 
 A Socket.io client wrapper for Elm.
 
-This library is drop-in replacement for [mgold/elm-socketio][mgold]
-with an expanded scope aimed at supporting the Socket.io
+This library is inspired by [mgold/elm-socketio][mgold] but
+has an expanded scope aimed at supporting the Socket.io
 features necessary for communicating with Socket.io servers
 that you do *not* control.
 
